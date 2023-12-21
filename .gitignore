@@ -1,1 +1,8 @@
-# .env
+
+#Arquivos de segurança
+.env
+
+#Não quero que envie os seguintes diretórios
+node_modules/
+
+.gitignore
